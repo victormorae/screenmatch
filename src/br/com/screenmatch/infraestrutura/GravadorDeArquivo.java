@@ -1,5 +1,5 @@
-package br.com.alura.screenmatch.infraestrutura;
-import br.com.alura.screenmatch.modelos.Titulo;
+package br.com.screenmatch.infraestrutura;
+import br.com.screenmatch.modelos.Titulo;
 import com.google.gson.Gson;
 import java.io.FileWriter;
 import java.io.IOException;

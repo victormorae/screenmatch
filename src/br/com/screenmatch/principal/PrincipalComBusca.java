@@ -1,8 +1,8 @@
-package br.com.alura.screenmatch.principal;
-import br.com.alura.screenmatch.excecao.ErroDeConversaoDeAnoException;
-import br.com.alura.screenmatch.infraestrutura.GravadorDeArquivo;
-import br.com.alura.screenmatch.modelos.Titulo;
-import br.com.alura.screenmatch.servicos.OmdbServico;
+package br.com.screenmatch.principal;
+import br.com.screenmatch.excecao.ErroDeConversaoDeAnoException;
+import br.com.screenmatch.infraestrutura.GravadorDeArquivo;
+import br.com.screenmatch.modelos.Titulo;
+import br.com.screenmatch.servicos.OmdbServico;
 import com.google.gson.FieldNamingPolicy;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

@@ -1,5 +1,5 @@
-package br.com.alura.screenmatch.modelos;
-import br.com.alura.screenmatch.excecao.ErroDeConversaoDeAnoException;
+package br.com.screenmatch.modelos;
+import br.com.screenmatch.excecao.ErroDeConversaoDeAnoException;
 
 public class Titulo implements Comparable<Titulo> {
     private String nome;

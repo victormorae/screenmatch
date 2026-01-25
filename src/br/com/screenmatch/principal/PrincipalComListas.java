@@ -1,7 +1,7 @@
-package br.com.alura.screenmatch.principal;
-import br.com.alura.screenmatch.modelos.Filme;
-import br.com.alura.screenmatch.modelos.Serie;
-import br.com.alura.screenmatch.modelos.Titulo;
+package br.com.screenmatch.principal;
+import br.com.screenmatch.modelos.Filme;
+import br.com.screenmatch.modelos.Serie;
+import br.com.screenmatch.modelos.Titulo;
 import java.util.*;
 
 public class PrincipalComListas {
